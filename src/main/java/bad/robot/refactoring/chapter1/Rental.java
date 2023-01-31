@@ -5,7 +5,7 @@ import java.util.List;
 
 public class Rental {
 
-    private Movie movie;
+    Movie movie;
     private int daysRented;
 
     public Rental(Movie movie, int daysRented) {
